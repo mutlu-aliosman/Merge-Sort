@@ -1,6 +1,6 @@
 # Merge-Sort
 
-[Ödev Sayfasý] (https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje) Merge Sort
+[Ödev Sayfasý](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje) Merge Sort
 
 [16,21,11,8,12,22] -> Merge Sort
 
